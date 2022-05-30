@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"flightappab8814d0": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
